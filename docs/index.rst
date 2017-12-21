@@ -1,25 +1,25 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.... Leer el archivo maestro de documentación Docs Template, creado por
+   esfinge-quickstart el mar Aug 26 14:19:49 2014.
+   Puede adaptar este archivo completamente a su gusto, pero al menos debería
+   contienen la directiva `toctree` raíz.
 
-Welcome to Read the Docs Template's documentation!
+Bienvenido a Leer la documentación de Comologia!
 ==================================================
 
-Contents:
+Contenidos:
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+   Profundidad máxima: 2
+   glob:
 
    *
 
 
 
-Indices and tables
+Índices y tablas
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+*: ref: `genindex`
+*: ref: `modindex`
+*: ref:"búsqueda"
 
